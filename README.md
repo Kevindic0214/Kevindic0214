@@ -1,4 +1,4 @@
-<h1 align="center">Hung-Ting Hsieh (謝鴻廷)</h1>
+<h1 align="center">Hung-Ting Hsieh (謝弘廷)</h1>
 <h3 align="center">Reinforcement learning & applied ML — NYCU, Taiwan</h3>
 
 <p align="center">
