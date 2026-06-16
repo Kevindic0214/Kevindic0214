@@ -31,6 +31,12 @@ On minute-level ETHUSDT (held-out test set):
 
 Also explored Rainbow DQN and QR-DQN sub-agents as documented negative results — kept in the repo because the regime they failed in informed the Dynamic Hybrid design.
 
+#### 🏭 [AMR Fleet Sizing & Scheduling](https://github.com/Kevindic0214/AMR-Fleet-Scheduling-Optimization) — How many robots does a fab need?
+
+Frames a semiconductor fab's material-handling bottleneck as an optimization problem: find the **smallest AMR fleet** (lowest capital cost) whose schedule still clears a month of wafer transport. A **genetic algorithm** does the scheduling, cross-checked against an exact **Gurobi MILP** baseline; an automated search returns the business answer — **6 AMRs (TWD 36M)** on the demo instance.
+
+The repo's signature move is intellectual honesty: a random-baseline check shows the **GA beats naive assignment by only ~1–2%** here — and explains *why* (no time windows, so load-balancing is trivially easy), turning a "my method won" demo into a clear-eyed read of when a metaheuristic is actually the right tool. NYCU GA course project; tests + CI.
+
 #### 🧬 [Voice-Face Aging Prediction](https://github.com/Kevindic0214/Voice-Face-Aging-Prediction) — Multimodal healthy-aging signal
 
 Multimodal model combining voice and facial-expression features to predict markers of healthy aging.
