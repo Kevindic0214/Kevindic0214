@@ -1,5 +1,6 @@
 <h1 align="center">Hung-Ting Hsieh (謝弘廷)</h1>
-<h3 align="center">Reinforcement learning & applied ML — NYCU, Taiwan</h3>
+<h3 align="center">Consultant · AI &amp; Data, Technology &amp; Transformation @ Deloitte</h3>
+<p align="center"><em>Applied ML &amp; reinforcement learning · NYCU, Taiwan</em></p>
 
 <p align="center">
   <a href="mailto:hsiehk0214@gmail.com"><img src="https://img.shields.io/badge/Email-hsiehk0214%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -10,7 +11,7 @@
 
 ### About
 
-Graduate student at **National Yang Ming Chiao Tung University (NYCU)** working on reinforcement learning, sequence models, and multimodal ML. I'm most interested in problems where a learned policy or representation has to hold up under distribution shift — financial markets, speech, biomedical signals.
+Consultant on the **AI &amp; Data** team within **Technology &amp; Transformation** at **Deloitte**, applying machine learning and data science to business problems. Research background in reinforcement learning, sequence models, and multimodal ML from **National Yang Ming Chiao Tung University (NYCU)** — drawn to problems where a learned policy or representation has to hold up under distribution shift (financial markets, speech, biomedical signals).
 
 ---
 
