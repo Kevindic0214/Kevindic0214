@@ -1,20 +1,9 @@
 # Intro
-<table style="border:none">
-<tr>
-  <td style="vertical-align: center">
-    <img src="assets/intro.png" alt="intro" width="200"></img>
-  </td>
-  <td>
-
 👋 Hi, I'm Hung-Ting (謝弘廷), a Consultant in AI & Data, Technology & Transformation at Deloitte
 
 👨🏻‍💻 Interested in reinforcement learning, speech models, and multimodal ML
 
 🎓 Research background at National Yang Ming Chiao Tung University (NYCU), Taiwan
-
-  </td>
-</tr>
-</table>
 
 <p align="center">
   <a href="mailto:hsiehk0214@gmail.com"><img src="https://img.shields.io/badge/Email-hsiehk0214%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
