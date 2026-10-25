@@ -2,7 +2,7 @@
 <table style="border:none">
 <tr>
   <td style="vertical-align: center">
-    <img src="https://i.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" alt="10 hours of debugging... missing semicolon" width="200"></img>
+    <img src="assets/intro.png" alt="intro" width="200"></img>
   </td>
   <td>
 
