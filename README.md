@@ -1,6 +1,20 @@
-<h1 align="center">Hung-Ting Hsieh (謝弘廷)</h1>
-<h3 align="center">Consultant · AI &amp; Data, Technology &amp; Transformation @ Deloitte</h3>
-<p align="center"><em>Applied ML &amp; reinforcement learning · NYCU, Taiwan</em></p>
+# Intro
+<table style="border:none">
+<tr>
+  <td style="vertical-align: center">
+    <img src="https://i.giphy.com/media/wR1H6Hlfe2UE4aoWXW/giphy.gif" alt="yo!" width="200"></img>
+  </td>
+  <td>
+
+👋 Hi, I'm Hung-Ting (謝弘廷), a Consultant in AI & Data, Technology & Transformation at Deloitte
+
+👨🏻‍💻 Interested in reinforcement learning, speech models, and multimodal ML
+
+🎓 Research background at National Yang Ming Chiao Tung University (NYCU), Taiwan
+
+  </td>
+</tr>
+</table>
 
 <p align="center">
   <a href="mailto:hsiehk0214@gmail.com"><img src="https://img.shields.io/badge/Email-hsiehk0214%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -72,13 +86,11 @@ Working areas: deep reinforcement learning (DQN family, policy gradient, hierarc
 
 ---
 
-### Stats
+# My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevindic0214&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevindic0214&theme=tokyonight&hide_border=false" />
-</p>
+![Kevindic0214's Stats](https://github-readme-stats.vercel.app/api?username=Kevindic0214&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Kevindic0214's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kevindic0214&theme=tokyonight&hide_border=true)
+![Kevindic0214's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevindic0214&hide=html,css,makefile&theme=tokyonight)
 
 ---
 
